@@ -103,8 +103,8 @@ Para que o programa funcione corretamente, os arquivos de entrada devem seguir u
 
 ## ✒️ Autor
 
--   **João [Seu Sobrenome]**
--   **LinkedIn:** [https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/seu-usuario/)
+-   **João Rodrigues**
+-   **LinkedIn:** [https://www.linkedin.com/in/joao-rodrigues-junior/](https://www.linkedin.com/in/joao-rodrigues-junior/)
 -   **GitHub:** [@jooh0010](https://github.com/jooh0010)
 
 ## ⚖️ Licença
