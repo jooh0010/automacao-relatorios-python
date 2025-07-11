@@ -4,11 +4,9 @@ Este projeto é uma aplicação de desktop desenvolvida em Python para automatiz
 
 ## 📸 Demonstração
 
-*(**DICA IMPORTANTE:** Grave um GIF curto ou tire screenshots da sua aplicação em funcionamento e coloque aqui. Para um projeto com interface gráfica, a parte visual é fundamental! Você pode usar ferramentas como o ScreenToGIF ou o LICEcap para gravar a tela.)*
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/872ed0cd-fbc7-44e4-abc1-8df2c172afd5" />
 
-**Exemplo de como ficaria:**
 
-![Screenshot da tela principal da aplicação](caminho/para/sua/imagem.png)
 *Tela principal da aplicação, com as abas de Configuração, Arquivos e E-mails.*
 
 ## ✨ Principais Funcionalidades
